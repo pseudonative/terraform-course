@@ -1,6 +1,6 @@
-variable "AWS_ACCESS_KEY" {}
-variable "AWS_SECRET_KEY" {}
-variable "AWS_REGION" {
+variable "AKIAXSI6HAOBHLKQW3FJ" {}
+variable "M5o+zqzLgeg+cYLEDoT97vnp2DnlgwTszhnmjxEL" {}
+variable "us-east-1" {
   default = "us-east-1"
 }
 variable "AMIS" {
